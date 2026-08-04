@@ -12,3 +12,7 @@ CREATE TABLE usuarios (
 Lo cual dara algo así:
 
 | usuarios |
+------------
+| id_usuario | nombre |
+-----------------------
+| 009737 | Sam |
