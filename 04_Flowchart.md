@@ -1,4 +1,4 @@
-# Diagrama de Flujo  de Datos, DFD y Data for Development
+# Diagrama de Flujo o Flowchart
 
 > Represemtación gráfica de un algoritmo por medio de símbolos relacionados que indican el orden de ejecución
 
@@ -8,7 +8,7 @@ Se caracterizan por
 
 - Ejecutarse de arriba hacia abajo y de izquierda a derecha
 
-Los símbolos para un DFD son
+Los símbolos para un **Diagrama de Flujo** son
 
 ```mermaid
 flowchart TD
